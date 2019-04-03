@@ -1,5 +1,0 @@
-{
-  "dependencies": {
-    "@rails/webpacker": "https://github.com/rails/webpacker.git"
-  }
-}
